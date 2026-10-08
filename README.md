@@ -1,4 +1,4 @@
-<h1 align="center">Automate your workflow using GitHub Actions and GitHub Packages</h1>
+<h1 align="center">GitHub Automation Workshop</h1>
 <h5 align="center">@stebje @rwnfoo</h3>
 
 <p align="center">
